@@ -1,6 +1,7 @@
 # User
 .vscode/
 Makefile
+create_labels.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
